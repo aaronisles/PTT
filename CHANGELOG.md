@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.2](https://github.com/dreulavelle/PTT/compare/v1.5.1...v1.5.2) (2024-11-20)
+
+
+### Bug Fixes
+
+* housekeeping ([f4dec25](https://github.com/dreulavelle/PTT/commit/f4dec25b11ca4992b98a12a8e12518bfc2d656b5))
+
 ## [1.5.1](https://github.com/dreulavelle/PTT/compare/v1.5.0...v1.5.1) (2024-11-20)
 
 
